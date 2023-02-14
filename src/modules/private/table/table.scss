@@ -1,0 +1,26 @@
+.table {
+    li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    span {
+        display: inline-block;
+        text-align: center;
+    }
+}
+
+.qwerty {
+    font-size: 18px;
+}
+
+.qwerty2 {
+    font-size: 22px;
+    color: blue;
+    font-weight: bold;
+}
+
+.curs {
+    cursor: pointer;
+}
